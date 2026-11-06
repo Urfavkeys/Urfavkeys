@@ -75,10 +75,10 @@ I build the systems that sit between **data** and **revenue** — sales dashboar
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Integrations**  
-`Midtrans` · `Xendit` · `Biteship` · `WhatsApp Cloud API` · `Resend`
+`Midtrans` · `Xendit` · `Biteship` · `WhatsApp Cloud API` · `Resend` · `Tiktok Partnership` · `Shopee Open Platform`
 
 **Workflow**  
-`tmux` · `Claude Code` · `pull-only VPS deploys` · `PRD-driven, phase-gated builds`
+`tmux` 
 
 ---
 
